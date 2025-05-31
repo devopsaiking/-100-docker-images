@@ -1,8 +1,3 @@
-.md# Simple Hello World Docker Image
-
-[![Docker Build Status](https://img.shields.io/docker/build/your-dockerhub-username/hello-docker-world.svg?style=flat-square)](https://hub.docker.com/r/your-dockerhub-username/hello-docker-world/) <!-- Optional: Replace with your Docker Hub details if you set up automated builds -->
-[![GitHub stars](https://img.shields.io/github/stars/your-github-username/your-repo-name.svg?style=social&label=Star&maxAge=2592000)](https://github.com/your-github-username/your-repo-name/stargazers/) <!-- Optional: Replace with your GitHub repo details -->
-
 This repository provides a step-by-step guide to creating a basic "Hello World" application using Python, containerizing it with Docker, and publishing the image to both Docker Hub and GitHub Container Registry (GHCR).
 
 ## Table of Contents
