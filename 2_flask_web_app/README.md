@@ -1,7 +1,5 @@
 # Simple Flask Web App - Docker Image #2
 
-[![Docker Build Status](https://img.shields.io/docker/build/your-dockerhub-username/flask-hello-docker.svg?style=flat-square)](https://hub.docker.com/r/your-dockerhub-username/flask-hello-docker/)
-[![GitHub stars](https://img.shields.io/github/stars/your-github-username/your-repo-name.svg?style=social&label=Star&maxAge=2592000)](https://github.com/your-github-username/your-repo-name/stargazers/)
 
 This repository provides a step-by-step guide to creating a basic Flask web application, containerizing it using Docker, and running it locally. It is part of the **100 Docker Images from Basic to Advanced** series designed for interview preparation and production use.
 
